@@ -24,7 +24,7 @@ Depois: única plataforma integrada que atende médicos, pacientes e administra�
 ## Stack Tecnológico Principal
 
 **Frontend**  
-Next.js 14 · React · TypeScript · shadcn/ui + Radix UI · Tailwind CSS
+Next.js 16 · React · TypeScript · shadcn/ui + Radix UI · Tailwind CSS
 
 **Backend & Microserviços**  
 Python + FastAPI (transcrição de áudio)  
